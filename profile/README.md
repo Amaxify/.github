@@ -175,8 +175,8 @@ Whether you're starting from scratch or modernizing existing operations, we can 
 
 <br/>
 
-[![Visit Website](https://img.shields.io/badge/Visit_amaxify.pt-0A0A0A?style=for-the-badge&logo=globe&logoColor=white)](https://amaxify.pt)
-[![Send Email](https://img.shields.io/badge/contact@amaxify.pt-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@amaxify.pt)
+[![Visit Website](https://img.shields.io/badge/Visit_amaxify.pt-0A0A0A?style=for-the-badge&logo=globe&logoColor=white)](https://amaxify.com)
+[![Send Email](https://img.shields.io/badge/contact@amaxify.pt-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@amaxify.com)
 
 </div>
 
